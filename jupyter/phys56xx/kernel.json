@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "/project/phys5630/miniconda3/envs/phys56xx/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "P56xx Env",
+ "language": "python"
+}
