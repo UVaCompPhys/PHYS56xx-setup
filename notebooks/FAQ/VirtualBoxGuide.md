@@ -59,4 +59,4 @@ So now you've jumped into the deep end and have become a [sysadmin](https://xkcd
 * You will probaby want to create a new user, unless you like the name *osboxes* and it's ALWAYS good practice to change the default passwords on your accounts!
 * To setup the tools used in the phys56xx courses, use conda as described in the Working Environment guide.
 
-\* Problems?  "You may do all your exercises on Rivanna instead.”  You can also take this as a challenge to pick up some new skills.  Go ahead and post your questions on our piazza group and share your discoveries as well. 
+\* Problems?  "You may do all your exercises on Rivanna instead.”  You can also take this as a challenge to pick up some new skills.  Go ahead and post your questions on our discussion group and share your discoveries as well. 
