@@ -1,6 +1,6 @@
 {
  "argv": [
-  "/project/phys5630/miniconda3/envs/phys56xx/bin/python",
+  "/standard/phys56xx/miniforge3/envs/phys56xx/bin/python",
   "-m",
   "ipykernel_launcher",
   "-f",
